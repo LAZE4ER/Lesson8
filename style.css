@@ -1,0 +1,17 @@
+.ger{
+    background-color: blueviolet;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.tey{
+    background-color: gray;
+    width: 15%;
+    height: 15%;
+}
+.red{
+    background-color: yellow;
+    width: 15%;
+    height: 15%;
+}
